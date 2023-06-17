@@ -5,12 +5,6 @@
       "text": "Meeting at School",
       "day": "Feb 6th at 1:30pm",
       "reminder": true
-    },
-    {
-      "text": "test",
-      "day": "test2",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
